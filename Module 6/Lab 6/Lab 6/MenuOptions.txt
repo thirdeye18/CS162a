@@ -1,0 +1,6 @@
+1 - Add a new node to the head
+2 - Add a new node to the tail
+3 - Delete from head (the first node in the list)
+4 - Delete from tail (the last node in the list)
+5 - Traverse the list backwards and print.
+6 - Exit program

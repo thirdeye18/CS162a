@@ -1,0 +1,4 @@
+1 - Use reverse string function
+2 - Use sum array function
+3 - Use triangular number function
+4 - Exit program

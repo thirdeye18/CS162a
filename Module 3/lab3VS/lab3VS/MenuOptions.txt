@@ -1,0 +1,4 @@
+1 - Start game
+2 - Setup player 1 die
+3 - Setup player 2 die
+4 - Exit program

@@ -1,0 +1,5 @@
+1 - Create a list
+2 - Add items
+3 - Remove items
+4 - Display list
+5 - Exit program

@@ -1,0 +1,4 @@
+1. Search for a target value within text file
+2. Sort text file values
+3. Search for target value using binary search
+4. Exit

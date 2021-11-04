@@ -1,0 +1,5 @@
+1. Enter a value to be added to the queue
+2. Display first node (front) value
+3. Remove first node (front) value
+4. Display the queue contents
+5. Exit

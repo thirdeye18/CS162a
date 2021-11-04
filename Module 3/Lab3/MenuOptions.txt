@@ -1,0 +1,4 @@
+1 - Start game
+2 - Setup player 1 die
+3 - Run simulation with user selected start point
+4 - Exit program

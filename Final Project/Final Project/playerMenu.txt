@@ -1,0 +1,4 @@
+1 - Roll available dice
+2 - Move to different room
+3 - Activate room function
+4 - View pack contents

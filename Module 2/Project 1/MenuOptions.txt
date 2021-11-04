@@ -1,0 +1,5 @@
+1 - Input size of 2d Array
+2 - Input rounds to run simulation
+3 - Run simulation with user selected start point
+4 - Run simulation with random starting point
+5 - Exit program

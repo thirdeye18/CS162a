@@ -1,0 +1,4 @@
+1 - Print university building information
+2 - Print student and instructor information
+3 - Choose a person to do work
+4 - Exit program
